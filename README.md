@@ -1,4 +1,4 @@
-# BTL-XLTT-PT-PTIT
+# BTL-XLTT-ĐPT-PTIT
 
 Hướng dẫn Download và sử dụng App
 
