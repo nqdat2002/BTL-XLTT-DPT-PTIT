@@ -1,5 +1,0 @@
-C:\Users\admin\Desktop\XLA\XLA\bin\publish\XLA.exe
-C:\Users\admin\Desktop\XLA\XLA\bin\publish\XLA.dll
-C:\Users\admin\Desktop\XLA\XLA\bin\publish\XLA.deps.json
-C:\Users\admin\Desktop\XLA\XLA\bin\publish\XLA.runtimeconfig.json
-C:\Users\admin\Desktop\XLA\XLA\bin\publish\XLA.pdb
